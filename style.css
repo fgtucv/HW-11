@@ -1,8 +1,8 @@
 .header-title {
     width: 350px;
     height: 220px;
-    border: 2px solid red;
-    background: green;
+    border: 5px dashed red;
+    background-color: green;
     padding-left: 10px;
     padding-top: 15px;
     padding-right: 15px;
@@ -14,21 +14,8 @@
 .header-text {
     width: 350px;
     height: 220px;
-    border: 2px solid red;
-    background: green;
-    padding-left: 10px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 20px;
-    margin-bottom: 30px;
-    
-}
-
-.main-title {
-    width: 350px;
-    height: 220px;
-    border: 2px solid red;
-    background: green;
+    border: 5px dashed red;
+    background-color: green;
     padding-left: 10px;
     padding-top: 15px;
     padding-right: 15px;
@@ -40,21 +27,8 @@
 .main-text {
     width: 350px;
     height: 220px;
-    border: 2px solid red;
-    background: green;
-    padding-left: 10px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 20px;
-    margin-bottom: 30px;
-    
-}
-
-.main-text {
-    width: 350px;
-    height: 220px;
-    border: 2px solid red;
-    background: green;
+    border: 5px dashed red;
+    background-color: green;
     padding-left: 10px;
     padding-top: 15px;
     padding-right: 15px;
